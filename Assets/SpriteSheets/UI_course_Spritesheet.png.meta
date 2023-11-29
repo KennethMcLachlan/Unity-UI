@@ -263,7 +263,7 @@ TextureImporter:
         serializedVersion: 2
         x: 177
         y: 433
-        width: 57
+        width: 29
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -472,9 +472,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 99
-        y: 404
+        y: 433
         width: 31
-        height: 58
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -534,7 +534,7 @@ TextureImporter:
       name: UI_course_Spritesheet_18
       rect:
         serializedVersion: 2
-        x: 280
+        x: 281
         y: 434
         width: 30
         height: 28
@@ -619,9 +619,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 29
-        y: 372
+        y: 404
         width: 30
-        height: 60
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1737,7 +1737,7 @@ TextureImporter:
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 9, y: 10, z: 9, w: 6}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2004,7 +2004,7 @@ TextureImporter:
       name: UI_course_Spritesheet_88
       rect:
         serializedVersion: 2
-        x: 24
+        x: 26
         y: 38
         width: 232
         height: 149
@@ -2131,7 +2131,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 397
-        y: 6
+        y: 5
         width: 77
         height: 28
       alignment: 0
