@@ -807,10 +807,10 @@ TextureImporter:
       name: UI_course_Spritesheet_31
       rect:
         serializedVersion: 2
-        x: 60
-        y: 372
+        x: 30
+        y: 376
         width: 30
-        height: 31
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,9 +934,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 30
-        y: 314
+        y: 343
         width: 30
-        height: 58
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1815,10 +1815,10 @@ TextureImporter:
       name: UI_course_Spritesheet_79
       rect:
         serializedVersion: 2
-        x: 297
-        y: 245
-        width: 12
-        height: 13
+        x: 299
+        y: 247
+        width: 10
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1983,10 +1983,10 @@ TextureImporter:
       name: UI_course_Spritesheet_87
       rect:
         serializedVersion: 2
-        x: 381
-        y: 163
-        width: 97
-        height: 51
+        x: 431
+        y: 165
+        width: 47
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2147,6 +2147,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: UI_course_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 165
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0807de9f70eb715419611bd3c905223b
+      internalID: -1492349730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2253,6 +2274,7 @@ TextureImporter:
       UI_course_Spritesheet_92: -1103218564
       UI_course_Spritesheet_93: -533533773
       UI_course_Spritesheet_94: -1705842864
+      UI_course_Spritesheet_95: -1492349730
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
