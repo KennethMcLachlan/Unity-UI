@@ -16,6 +16,7 @@ public class DraggablesScript : MonoBehaviour, IDragHandler, IEndDragHandler, IB
         var temp = _image.color;
         temp.a = 0.5f;
         _image.color = temp;
+        _image.raycastTarget = false;
     }
 
     public void OnDrag(PointerEventData eventData)
@@ -28,5 +29,6 @@ public class DraggablesScript : MonoBehaviour, IDragHandler, IEndDragHandler, IB
         var temp = _image.color;
         temp.a = 1.0f;
         _image.color = temp;
+        _image.raycastTarget = true;
     }
 }
